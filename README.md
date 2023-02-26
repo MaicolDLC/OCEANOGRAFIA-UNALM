@@ -1,2 +1,2 @@
 # Python
-Algunos scripts de Python. Geolocalización con GeoPy y CartoPy, índices TSM, etc. 
+Algunos scripts de Oceanografía con Python. Cálculos de anomalías TSM, Cálculos de índices. 
